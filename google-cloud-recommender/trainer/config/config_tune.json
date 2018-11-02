@@ -1,0 +1,6 @@
+{
+	"parameterName": "regularization",
+	"type": "DOUBLE",
+	"minValue": "0.001",
+	"maxValue": "10.0",
+}
